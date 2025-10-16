@@ -13,5 +13,5 @@
 
 **Legenda**
 
-- ⛂ Peça preta
-- ⛀ Peça branca
+- ⛂  Ana Tábita
+- ⛀  Nicole
